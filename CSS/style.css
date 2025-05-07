@@ -5,8 +5,9 @@
 .carousel-caption h5{
   color: white;
   font-size: 3rem;
+  box-shadow: 2px 2px 4px black;
   
 }
 .col .p-3{
-
+  width: 50%;
 }
